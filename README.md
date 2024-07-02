@@ -1,6 +1,10 @@
+This repository represents my work for the final project of NU CE 334
+Blockchains and Decentralization.
+
 This is the code for analyzing and simulating the private mining with reset
-scenario. See the paper for details on reducing the private mining scenario
-to a form that can be analyzed by code.
+scenario. See [the paper](/paper.pdf) for
+details on reducing the private mining scenario to a form that can be analyzed
+by code.
 
 # Files
 
